@@ -17,5 +17,5 @@ Currently living in Florianópolis! 🌎
 
 #
 ### Contact
-<code><a href="https://www.linkedin.com/in/daniel-lidio/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
-<code><a href="mailto:daniellidiops@gmail.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"></a></code>
+<code><a href="https://www.linkedin.com/in/daniel-lidio/" target="_blank"><img height="20" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a></code>
+<code><a href="mailto:daniellidiops@gmail.com" target="_blank"><img height="20" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a></code>
