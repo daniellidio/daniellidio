@@ -5,7 +5,7 @@ So in this repo you'll find projects about both of these fields.
 
 Currently living in Florianópolis! 🌎
 #
-### Languages and tools that I'm working on 👨‍💻
+### Languages and tools that I'm working with 👨‍💻
 - Python
 - Flask
 - Django
