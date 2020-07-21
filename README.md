@@ -6,8 +6,14 @@ So in this repo you'll find projects about both of these fields.
 Currently living in Florianópolis! 🌎
 #
 ### Languages and tools that I'm working on 👨‍💻
-> Python
 - Python
+- Flask
+- Django
+- Java
+- HTML5 and CSS3
+- MySQL
+- PostgreSQL
+- Docker
 <code><a href="https://www.python.org/" target="_blank"><img height="20" src="https://img.shields.io/badge/-Python-lightgrey"></a></code>
 <code><a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></a></code>
 <code><a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
