@@ -1,5 +1,5 @@
 ### Hi there 🙋‍♂️, my name is **Daniel Lidio**!
-On my way to become a **Full Stack Developer**, but I'm also very passionate about **Data Science**!
+I really like **Data** related fields, but I also like **Back-end Development**!
 
 So in this repo you'll find projects about both of these fields.
 
