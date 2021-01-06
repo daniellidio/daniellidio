@@ -8,12 +8,10 @@ Currently living in Florianópolis! 🌎
 ### Languages and tools that I'm working with 👨‍💻
 - Python
 - Flask
-- Django
 - Java
 - HTML5 and CSS3
 - MySQL
 - PostgreSQL
-- Docker
 
 #
 ### Contact
