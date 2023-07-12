@@ -1,17 +1,15 @@
-### Hi there 🙋‍♂️, my name is **Daniel Lidio**!
-I really like **Data** related fields, but I also like **Back-end Development**!
+### Hi there 🙋‍♂️, my name is **Daniel Lidio** and I`m Senior Data Engineer!
 
-So in this repo you'll find projects about both of these fields.
+Currently living in Florianópolis - SC - Brazil.
 
-Currently living in Florianópolis! 🌎
-#
 ### Languages and tools that I'm working with 👨‍💻
 - Python
-- Flask
-- Java
-- HTML5 and CSS3
-- MySQL
-- PostgreSQL
+- AWS Glue
+- Pyspark
+- Redshift
+- AWS Lambda
+- AWS EC2
+- Airbyte
 
 #
 ### Contact
